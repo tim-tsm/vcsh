@@ -19,3 +19,4 @@ config.status
 configure
 aminclude.am
 vcsh-*
+configure.orig
