@@ -1,0 +1,2 @@
+./bootstrap.sh
+./configure --with-man-page=no # because man page requires ronn to build
